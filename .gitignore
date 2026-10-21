@@ -1,0 +1,11 @@
+# Installed skills in this authoring repo
+.agents/
+.claude/
+.cursor/
+.windsurf/
+
+# Generated review artifacts
+.backend-skills/
+
+# Installer lockfile for local testing
+skills-lock.json
